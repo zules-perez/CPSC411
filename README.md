@@ -1,2 +1,2 @@
 # CPSC411
-Mobile Device Application Programming
+## Mobile Device Application Programming
